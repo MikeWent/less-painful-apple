@@ -1,3 +1,13 @@
+<style>
+.inline-image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+}
+img {
+    max-width: 300px;
+}
+
+</style>
 # iOS
 
 Primarly iPhone SE 2020 with iOS 14.0.1
@@ -33,5 +43,8 @@ Fill your operator APN settings into **Peronal Hotspot** section. Usually it's j
 
 Then re-enable broadband (airplane mode on then off) and here you go!
 
-![](img/hp1.jpg?display=inline-block) ![](img/hp2.jpg?display=inline-block)
+<div class="inline-image-gallery">
+![](img/hp1.jpg)
+![](img/hp2.jpg) 
+</div>
 </details>
