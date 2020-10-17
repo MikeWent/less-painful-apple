@@ -6,8 +6,8 @@
 img {
     max-width: 300px;
 }
-
 </style>
+
 # iOS
 
 Primarly iPhone SE 2020 with iOS 14.0.1
