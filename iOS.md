@@ -6,7 +6,8 @@ Primarly iPhone SE 2020 with iOS 14.0.1
 
 - [iSH](https://ish.app/) — Alpine Linux i686 container with filesystem access via Files app
 - [KeePassium](https://apps.apple.com/pl/app/keepassium-keepass-passwords/id1435127111) — KeePass compatible
-- [Raivo OTP](https://apps.apple.com/pl/app/raivo-otp/id1459042137)
+- [Raivo OTP](https://apps.apple.com/pl/app/raivo-otp/id1459042137) — 2FA
+- [Unstoppable Wallet](https://apps.apple.com/app/bank-bitcoin-wallet/id1447619907) — Bitcoin, Ethereum and other crypto
 
 ## Troubleshooting
 
@@ -30,3 +31,4 @@ Then re-enable broadband (airplane mode on then off) and here you go!
 <img src="img/hp2.jpg" style="max-width: 300px; margin: 0 0.5em 0.5em 0">
 </p>
 </details>
+
