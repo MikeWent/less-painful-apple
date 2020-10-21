@@ -8,6 +8,7 @@ Primarly iPhone SE 2020 with iOS 14.0.1
 - [KeePassium](https://apps.apple.com/pl/app/keepassium-keepass-passwords/id1435127111) — KeePass compatible
 - [Raivo OTP](https://apps.apple.com/pl/app/raivo-otp/id1459042137) — 2FA
 - [Unstoppable Wallet](https://apps.apple.com/app/bank-bitcoin-wallet/id1447619907) — Bitcoin, Ethereum and other crypto
+- [Nicegram](https://apps.apple.com/app/id1457369322) — Telegram client with advanced features
 
 ## Troubleshooting
 
