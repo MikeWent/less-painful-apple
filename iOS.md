@@ -10,6 +10,7 @@ Primarly iPhone SE 2020 with iOS 14.0.1
 - [Unstoppable Wallet](https://apps.apple.com/app/bank-bitcoin-wallet/id1447619907) — Bitcoin, Ethereum and other crypto
 - [Nicegram](https://apps.apple.com/app/id1457369322) — Telegram client with advanced features
 - [//afone](https://apps.apple.com/pl/app/afone/id1470424336) — SIP (VoIP) client with minimalistic design
+- [AdGuard](https://apps.apple.com/app/apple-store/id1047223162) — Adblocker for Safari with customizable filter lists
 
 ## Troubleshooting
 
