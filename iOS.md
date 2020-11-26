@@ -36,3 +36,13 @@ Then re-enable broadband (airplane mode on then off) and here you go!
 </p>
 </details>
 
+<details>
+<summary>YouTube background/PiP mode</summary>
+
+1. download Firefox from App Store
+2. open any Youtube link in it
+3. enable the Desktop version from Firefox context menu
+4. switch to full screen video
+5. tap on PiP mode icon
+
+</details>
