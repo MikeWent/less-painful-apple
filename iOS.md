@@ -9,9 +9,9 @@ Primarly iPhone SE 2020 with iOS 14.0.1
 - [Raivo OTP](https://apps.apple.com/pl/app/raivo-otp/id1459042137) — 2FA
 - [Unstoppable Wallet](https://apps.apple.com/app/bank-bitcoin-wallet/id1447619907) — Bitcoin, Ethereum and other crypto
 - [Monero Wallet WooKey](https://apps.apple.com/by/app/monero-wallet-wookey/id1458831417) — Monero wallet
-- [Nicegram](https://apps.apple.com/app/id1457369322) — Telegram client with advanced features
 - [//afone](https://apps.apple.com/pl/app/afone/id1470424336) — SIP (VoIP) client with minimalistic design
 - [AdGuard](https://apps.apple.com/app/apple-store/id1047223162) — Adblocker for Safari with customizable filter lists
+- ~~[Nicegram](https://apps.apple.com/app/id1457369322) — Telegram client with advanced features~~
 
 ## Troubleshooting
 
